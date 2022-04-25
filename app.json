@@ -123,3 +123,19 @@
         },
         "HANDLERS": {
             "description": "Komutlar için. For commands.",
+"required": true,
+            "value": "^[.!;]"
+        },
+        "OWNER_NAME": {
+            "description": "reply for .owner ! give your details, Use => default, to change back.",
+            "required": false,
+            "value": "Achu"
+        },
+        "ALL_CAPTION": {
+            "value": "Adhohi (AH)"
+        },
+
+        "ALL_IMG": {
+            "description": "Your Bot Images Url",
+            "required": true,
+            "value": "https://telegra.ph/file/f6ec3d3d845a1e3dcce39.jpg"
