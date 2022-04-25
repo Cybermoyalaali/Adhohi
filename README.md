@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Achuser
 - 👀 I’m interested in ... Creating bots
-- 🌱 I’m currently learning ... 9th std
+- 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Wa.me/919188252308
 
